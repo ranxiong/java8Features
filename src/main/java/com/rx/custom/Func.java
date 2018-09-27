@@ -1,4 +1,4 @@
-package com.rx;
+package com.rx.custom;
 
 @FunctionalInterface
 public interface Func extends NonFunc {

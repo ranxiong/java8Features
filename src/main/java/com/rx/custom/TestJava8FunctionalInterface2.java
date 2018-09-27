@@ -1,4 +1,4 @@
-package com.rx;
+package com.rx.custom;
 
 public class TestJava8FunctionalInterface2 {
     public static void main(String[] args) {
